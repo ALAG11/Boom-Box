@@ -1,5 +1,5 @@
 # Boom-Box
-It is a music player android app written in Java programming language and created using android studio.
+It is a full stack music player android app written in Java programming language and created using android studio.
 
 If you want to run this app in your system then you can directly clone the repository in your system and then open that cloned repository folder in Android Studio and then you can run the app in Android Studio Mobile Phone Emulator by clicking on run button.
 
